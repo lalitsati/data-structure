@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/ThreeSumProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/resources/setting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayFundaMentals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DatastructureApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ThreeSumProblems.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSumProblem.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.data-structure [clean,compile,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.datastructure [clean,compile,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.structure [clean,compile,install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/a13404842/lalit/data-structure&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayFundaMentals.executor": "Run",
+    "Application.DatastructureApplication.executor": "Run",
+    "Application.ThreeSumProblems.executor": "Run",
+    "Application.TwoSumProblem.executor": "Run",
+    "Maven.data-structure [clean,compile,install].executor": "Run",
+    "Maven.datastructure [clean,compile,install].executor": "Run",
+    "Maven.structure [clean,compile,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/a13404842/lalit/data-structure",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.programe.datastructure" />
