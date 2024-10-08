@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SmallestNumberProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/MajorityElementProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/RotateMatrix90Digree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SprialMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/beginners/Pyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SmallestNumberProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SmallestNumberProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +53,11 @@
   "keyToString": {
     "Application.ArrayFundaMentals.executor": "Run",
     "Application.DatastructureApplication.executor": "Run",
+    "Application.MajorityElementProblem.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.RotateMatrix90Digree.executor": "Run",
     "Application.SmallestNumberProblem.executor": "Run",
+    "Application.SprialMatrix.executor": "Run",
     "Application.ThreeSumProblems.executor": "Run",
     "Application.TwoSumProblem.executor": "Run",
     "Maven.data-structure [clean,compile,install].executor": "Run",
@@ -78,9 +86,9 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestNumberProblem">
-    <configuration name="ArrayFundaMentals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.ArrayFundaMentals" />
+  <component name="RunManager" selected="Application.SprialMatrix">
+    <configuration name="MajorityElementProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.MajorityElementProblem" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatastructureApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.DatastructureApplication" />
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.beginners.Pyramid" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.*" />
+          <option name="PATTERN" value="com.programe.datastructure.beginners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix90Digree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.RotateMatrix90Digree" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programe.datastructure.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,21 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.ThreeSumProblems" />
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.TwoSumProblem" />
+    <configuration name="SprialMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.SprialMatrix" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
@@ -156,19 +164,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MajorityElementProblem" />
+      <item itemvalue="Application.Pyramid" />
+      <item itemvalue="Application.RotateMatrix90Digree" />
       <item itemvalue="Application.SmallestNumberProblem" />
-      <item itemvalue="Application.ArrayFundaMentals" />
-      <item itemvalue="Application.ThreeSumProblems" />
-      <item itemvalue="Application.TwoSumProblem" />
-      <item itemvalue="Application.DatastructureApplication" />
+      <item itemvalue="Application.SprialMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SprialMatrix" />
+        <item itemvalue="Application.RotateMatrix90Digree" />
+        <item itemvalue="Application.Pyramid" />
+        <item itemvalue="Application.MajorityElementProblem" />
         <item itemvalue="Application.SmallestNumberProblem" />
-        <item itemvalue="Application.ArrayFundaMentals" />
-        <item itemvalue="Application.ThreeSumProblems" />
-        <item itemvalue="Application.DatastructureApplication" />
-        <item itemvalue="Application.TwoSumProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +209,21 @@
           <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SmallestNumberProblem.java</url>
           <line>27</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/MajorityElementProblem.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/MajorityElementProblem.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SprialMatrix.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

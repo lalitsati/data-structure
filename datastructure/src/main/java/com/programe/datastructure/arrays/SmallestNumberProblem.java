@@ -15,7 +15,7 @@ public class SmallestNumberProblem {
 
         int n=100;
         System.out.println("Result - : "+bruteForceSolution(n));
-       
+
     }
 
     /**
