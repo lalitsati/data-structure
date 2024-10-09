@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/MajorityElementProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/RotateMatrix90Digree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SprialMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/beginners/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/binarysearch/FirstAndLastPositionOfX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/binarysearch/SearchSortedAndRotatedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SmallestNumberProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/SmallestNumberProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +50,11 @@
   "keyToString": {
     "Application.ArrayFundaMentals.executor": "Run",
     "Application.DatastructureApplication.executor": "Run",
+    "Application.FirstAndLastPositionOfX.executor": "Run",
     "Application.MajorityElementProblem.executor": "Run",
     "Application.Pyramid.executor": "Run",
     "Application.RotateMatrix90Digree.executor": "Run",
+    "Application.SearchSortedAndRotatedArray.executor": "Run",
     "Application.SmallestNumberProblem.executor": "Run",
     "Application.SprialMatrix.executor": "Run",
     "Application.ThreeSumProblems.executor": "Run",
@@ -86,13 +85,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SprialMatrix">
-    <configuration name="MajorityElementProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.MajorityElementProblem" />
+  <component name="RunManager" selected="Application.SearchSortedAndRotatedArray">
+    <configuration name="FirstAndLastPositionOfX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.FirstAndLastPositionOfX" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.*" />
+          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestNumberProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.SmallestNumberProblem" />
+    <configuration name="SearchSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.SearchSortedAndRotatedArray" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.*" />
+          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MajorityElementProblem" />
+      <item itemvalue="Application.FirstAndLastPositionOfX" />
+      <item itemvalue="Application.SearchSortedAndRotatedArray" />
       <item itemvalue="Application.Pyramid" />
       <item itemvalue="Application.RotateMatrix90Digree" />
-      <item itemvalue="Application.SmallestNumberProblem" />
       <item itemvalue="Application.SprialMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchSortedAndRotatedArray" />
+        <item itemvalue="Application.FirstAndLastPositionOfX" />
         <item itemvalue="Application.SprialMatrix" />
         <item itemvalue="Application.RotateMatrix90Digree" />
         <item itemvalue="Application.Pyramid" />
-        <item itemvalue="Application.MajorityElementProblem" />
-        <item itemvalue="Application.SmallestNumberProblem" />
       </list>
     </recent_temporary>
   </component>
