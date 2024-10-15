@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/binarysearch/FindElementInSorted2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/binarysearch/FindMinimumInSortedAndRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/binarysearch/RotateArrayFromOnePointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/sorting/Sort01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/sorting/Sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/FindFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/DecodeWays91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/TargetSumSubSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOLID-Principles.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID-Principles.docx" afterDir="false" />
     </list>
@@ -20,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,19 +58,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayFundaMentals.executor": "Run",
+    "Application.ContainerWithMostWater.executor": "Run",
     "Application.DatastructureApplication.executor": "Run",
+    "Application.DecodeWays91.executor": "Debug",
     "Application.FindElementInSorted2DArray.executor": "Run",
+    "Application.FindFactors.executor": "Run",
     "Application.FindMinimumInSortedAndRotatedArray.executor": "Run",
     "Application.FirstAndLastPositionOfX.executor": "Run",
     "Application.MajorityElementProblem.executor": "Run",
+    "Application.MaximumSubArray.executor": "Run",
+    "Application.Permutations.executor": "Debug",
     "Application.Pyramid.executor": "Run",
     "Application.RotateArrayFromOnePointer.executor": "Run",
     "Application.RotateMatrix90Digree.executor": "Run",
     "Application.SearchSortedAndRotatedArray.executor": "Run",
     "Application.SmallestNumberProblem.executor": "Run",
+    "Application.Sort01.executor": "Run",
+    "Application.Sort012.executor": "Run",
     "Application.SprialMatrix.executor": "Run",
+    "Application.TargetSumSubSet.executor": "Debug",
     "Application.ThreeSumProblems.executor": "Run",
     "Application.TwoSumProblem.executor": "Run",
+    "Application.com.programe.datastructure.arrays.recursion.Permutations.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "Maven.data-structure [clean,compile,install].executor": "Run",
     "Maven.datastructure [clean,compile,install].executor": "Run",
     "Maven.structure [clean,compile,install].executor": "Run",
@@ -90,13 +107,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindElementInSorted2DArray">
-    <configuration name="FindElementInSorted2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.FindElementInSorted2DArray" />
+  <component name="RunManager" selected="Application.FindFactors">
+    <configuration name="DecodeWays91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.leetcode.DecodeWays91" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
+          <option name="PATTERN" value="com.programe.datastructure.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimumInSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.FindMinimumInSortedAndRotatedArray" />
+    <configuration name="FindFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.FindFactors" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastPositionOfX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.FirstAndLastPositionOfX" />
+    <configuration name="Sort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.sorting.Sort01" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
+          <option name="PATTERN" value="com.programe.datastructure.arrays.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArrayFromOnePointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.RotateArrayFromOnePointer" />
+    <configuration name="Sort012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.sorting.Sort012" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
+          <option name="PATTERN" value="com.programe.datastructure.arrays.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.binarysearch.SearchSortedAndRotatedArray" />
+    <configuration name="com.programe.datastructure.arrays.recursion.Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.recursion.Permutations" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.binarysearch.*" />
+          <option name="PATTERN" value="com.programe.datastructure.arrays.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindElementInSorted2DArray" />
-      <item itemvalue="Application.FindMinimumInSortedAndRotatedArray" />
-      <item itemvalue="Application.RotateArrayFromOnePointer" />
-      <item itemvalue="Application.FirstAndLastPositionOfX" />
-      <item itemvalue="Application.SearchSortedAndRotatedArray" />
+      <item itemvalue="Application.FindFactors" />
+      <item itemvalue="Application.DecodeWays91" />
+      <item itemvalue="Application.Sort01" />
+      <item itemvalue="Application.Sort012" />
+      <item itemvalue="Application.com.programe.datastructure.arrays.recursion.Permutations" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindElementInSorted2DArray" />
-        <item itemvalue="Application.FindMinimumInSortedAndRotatedArray" />
-        <item itemvalue="Application.RotateArrayFromOnePointer" />
-        <item itemvalue="Application.SearchSortedAndRotatedArray" />
-        <item itemvalue="Application.FirstAndLastPositionOfX" />
+        <item itemvalue="Application.FindFactors" />
+        <item itemvalue="Application.Sort012" />
+        <item itemvalue="Application.Sort01" />
+        <item itemvalue="Application.com.programe.datastructure.arrays.recursion.Permutations" />
+        <item itemvalue="Application.DecodeWays91" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +256,37 @@
           <line>50</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/Permutations.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/TargetSumSubSet.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/DecodeWays91.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/DecodeWays91.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/sorting/Sort01.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/Permutations.java" line="61">
+        <watch expression="ans" />
+      </inline-watch>
+    </watches-manager>
   </component>
 </project>
