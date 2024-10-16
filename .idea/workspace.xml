@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/sorting/Sort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/sorting/Sort012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/FindFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/DecodeWays91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/MaximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/TargetSumSubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/lect/MathsForProgramers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/CountsOfPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/FindPerfactNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/IsPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID-Principles.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID-Principles.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathsForProgramers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,12 +55,15 @@
   "keyToString": {
     "Application.ArrayFundaMentals.executor": "Run",
     "Application.ContainerWithMostWater.executor": "Run",
+    "Application.CountsOfPrimes.executor": "Run",
     "Application.DatastructureApplication.executor": "Run",
     "Application.DecodeWays91.executor": "Debug",
     "Application.FindElementInSorted2DArray.executor": "Run",
     "Application.FindFactors.executor": "Run",
     "Application.FindMinimumInSortedAndRotatedArray.executor": "Run",
+    "Application.FindPerfactNumber.executor": "Run",
     "Application.FirstAndLastPositionOfX.executor": "Run",
+    "Application.IsPrime.executor": "Run",
     "Application.MajorityElementProblem.executor": "Run",
     "Application.MaximumSubArray.executor": "Run",
     "Application.Permutations.executor": "Debug",
@@ -99,6 +98,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.programe.datastructure" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datastructure/lect" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -107,13 +109,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFactors">
-    <configuration name="DecodeWays91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.leetcode.DecodeWays91" />
+  <component name="RunManager" selected="Application.FindPerfactNumber">
+    <configuration name="CountsOfPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.CountsOfPrimes" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.leetcode.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +136,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.sorting.Sort01" />
+    <configuration name="FindPerfactNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.FindPerfactNumber" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.sorting.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.IsPrime" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +175,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.programe.datastructure.arrays.recursion.Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.recursion.Permutations" />
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,19 +187,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountsOfPrimes" />
+      <item itemvalue="Application.FindPerfactNumber" />
+      <item itemvalue="Application.IsPrime" />
       <item itemvalue="Application.FindFactors" />
-      <item itemvalue="Application.DecodeWays91" />
-      <item itemvalue="Application.Sort01" />
       <item itemvalue="Application.Sort012" />
-      <item itemvalue="Application.com.programe.datastructure.arrays.recursion.Permutations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPerfactNumber" />
+        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="Application.CountsOfPrimes" />
         <item itemvalue="Application.FindFactors" />
         <item itemvalue="Application.Sort012" />
-        <item itemvalue="Application.Sort01" />
-        <item itemvalue="Application.com.programe.datastructure.arrays.recursion.Permutations" />
-        <item itemvalue="Application.DecodeWays91" />
       </list>
     </recent_temporary>
   </component>

@@ -10,6 +10,10 @@
     <b>Factor - </b> i is a factor of N if i devides N complitely -
     <span style="color: blue;">see assignment section </span>
 </p>
+<p>
+    <b>Prime Number - </b> Number which have only two factors 1,N (n-number itself)
+    <span style="color: blue;">see assignment section </span>
+</p>
 <br>
 
 <p>
@@ -26,15 +30,28 @@
     </p>
     <p>
         <b>Find sum of Nth Number - </b> 1,2,3,,4.......100 (find the sum of all the numbers)
+        s1 = 1,2,3,4,5.......100 <br>
+        s2 = 100,99,98,97,96.......1<br>
+        According to the <b>"Gause Principle"</b> - (s1[0]+s2[0]), (s1[1]+s2[2]), (s1[3]+s2[3])
+        all will be return same Number <br>
+        Example - (100+1=101), (99+2=101), (98+3=101), (97+4=101), (96+5=101), (95+6=101)<br>
+        we can write it - 2s = 101*100  where (101-sum of each set, 100-total number of set)<br>
+        2s = 101*100 <br>
+        s = (101*100)/2;<br>
+        Get sum for Nth Number - 1,2,3,4,5.............Nth <br>
+        s1 = 1,2,3,4,5...............n<br>
+        s2 = n, n-1, n-2, n-3, n-4........1<br
+        2s = (n+1)*n <br>
+        s = ((n+1)*n)/2 <br>
+        <b>Formula - <span style="color: red;background: yellow;">sumN = (N*(N+1))/2 </span> </b><br>
         <span>
-            s1 = 1,2,3,4,5.......100 <br>
-            s2 = 100,99,98,97,96.......1<br>
-            According to the <b>"Gause Principle"</b> - (s1+s2), (s1+s2), (s1+s2) all will be return same Number<<br>
-            Example - (100+1=101), (99+2=101), (98+3=101), (97+4=101), (96+5=101), (95+6=101)<br>
-            we can write it - 2s = 101*100  where (101-sum of each set, 100-total number of set)<br>
-            2s = 101*100 <br>
-            s = (101*100)/2;<br>
+            <b>Example - </b> Find sum of 1 to 25 (n=25) <br>
+            sumN = (25*(25+1))/2 <br>
+                 = (25*26)/2 <br>
+                 = 650/2 <br>
+                 = 325 <br>
         </span>
+
 
     </p>
 
