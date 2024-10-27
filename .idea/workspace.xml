@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/lect/MathsForProgramers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/CountsOfPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/FindPerfactNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/AtleastOneElementGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/GoodPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/MultipleOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/ReverseRangeInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/SumOfMaxMinElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/TimeToEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/FindPrefixSumForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QueryEvenIndexesSumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QueryOddIndexesSumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QuerySumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/SpecialIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathsForProgramers" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,34 +62,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayFundaMentals.executor": "Run",
+    "Application.ArrayRotation.executor": "Debug",
+    "Application.AtleastOneElementGreater.executor": "Run",
+    "Application.BuyAndSellStocks121.executor": "Run",
     "Application.ContainerWithMostWater.executor": "Run",
+    "Application.ContainesDuplicate.executor": "Run",
     "Application.CountsOfPrimes.executor": "Run",
     "Application.DatastructureApplication.executor": "Run",
     "Application.DecodeWays91.executor": "Debug",
+    "Application.ExcelSheetColumnNumber.executor": "Run",
     "Application.FindElementInSorted2DArray.executor": "Run",
     "Application.FindFactors.executor": "Run",
+    "Application.FindMinRotatedSortedArray.executor": "Run",
     "Application.FindMinimumInSortedAndRotatedArray.executor": "Run",
     "Application.FindPerfactNumber.executor": "Run",
     "Application.FirstAndLastPositionOfX.executor": "Run",
+    "Application.GoodPair.executor": "Run",
     "Application.IsPrime.executor": "Run",
     "Application.MajorityElementProblem.executor": "Run",
     "Application.MaximumSubArray.executor": "Run",
+    "Application.MultipleOccurence.executor": "Run",
+    "Application.PawerOfTwo231.executor": "Run",
+    "Application.PeakIndexMountainArray852.executor": "Run",
     "Application.Permutations.executor": "Debug",
     "Application.Pyramid.executor": "Run",
+    "Application.QueryEvenIndexesSumInArray.executor": "Run",
+    "Application.QueryOddIndexesSumInArray.executor": "Run",
+    "Application.QuerySumInArray.executor": "Debug",
+    "Application.ReverseRangeInArray.executor": "Run",
+    "Application.ReverseStringArray.executor": "Run",
     "Application.RotateArrayFromOnePointer.executor": "Run",
     "Application.RotateMatrix90Digree.executor": "Run",
     "Application.SearchSortedAndRotatedArray.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
     "Application.SmallestNumberProblem.executor": "Run",
     "Application.Sort01.executor": "Run",
     "Application.Sort012.executor": "Run",
+    "Application.SpecialIndex.executor": "Run",
     "Application.SprialMatrix.executor": "Run",
+    "Application.SumOfMaxMinElement.executor": "Run",
     "Application.TargetSumSubSet.executor": "Debug",
     "Application.ThreeSumProblems.executor": "Run",
+    "Application.TimeToEquality.executor": "Run",
+    "Application.ToLowerCase.executor": "Run",
     "Application.TwoSumProblem.executor": "Run",
     "Application.com.programe.datastructure.arrays.recursion.Permutations.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "Maven.data-structure [clean,compile,install].executor": "Run",
     "Maven.datastructure [clean,compile,install].executor": "Run",
+    "Maven.datastructure [clean,compile,package...].executor": "Run",
+    "Maven.datastructure [clean].executor": "Run",
     "Maven.structure [clean,compile,install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
@@ -109,13 +139,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindPerfactNumber">
-    <configuration name="CountsOfPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.CountsOfPrimes" />
+  <component name="RunManager" selected="Application.SpecialIndex">
+    <configuration name="AtleastOneElementGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct18.AtleastOneElementGreater" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.FindFactors" />
+    <configuration name="QueryEvenIndexesSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.QueryEvenIndexesSumInArray" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPerfactNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.FindPerfactNumber" />
+    <configuration name="QueryOddIndexesSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.QueryOddIndexesSumInArray" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.IsPrime" />
+    <configuration name="QuerySumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.QuerySumInArray" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.arrays.sorting.Sort012" />
+    <configuration name="SpecialIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.SpecialIndex" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.arrays.sorting.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,19 +217,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountsOfPrimes" />
-      <item itemvalue="Application.FindPerfactNumber" />
-      <item itemvalue="Application.IsPrime" />
-      <item itemvalue="Application.FindFactors" />
-      <item itemvalue="Application.Sort012" />
+      <item itemvalue="Application.QueryEvenIndexesSumInArray" />
+      <item itemvalue="Application.QueryOddIndexesSumInArray" />
+      <item itemvalue="Application.QuerySumInArray" />
+      <item itemvalue="Application.SpecialIndex" />
+      <item itemvalue="Application.AtleastOneElementGreater" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindPerfactNumber" />
-        <item itemvalue="Application.IsPrime" />
-        <item itemvalue="Application.CountsOfPrimes" />
-        <item itemvalue="Application.FindFactors" />
-        <item itemvalue="Application.Sort012" />
+        <item itemvalue="Application.SpecialIndex" />
+        <item itemvalue="Application.QueryOddIndexesSumInArray" />
+        <item itemvalue="Application.QueryEvenIndexesSumInArray" />
+        <item itemvalue="Application.QuerySumInArray" />
+        <item itemvalue="Application.AtleastOneElementGreater" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +312,56 @@
           <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/arrays/sorting/Sort01.java</url>
           <line>44</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/ToLowerCase.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/FindMinRotatedSortedArray.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/ExcelSheetColumnNumber.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/GoodPair.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/ArrayRotation.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/SecondLargestNumber.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/AtleastOneElementGreater.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QuerySumInArray.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/SpecialIndex.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/SpecialIndex.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

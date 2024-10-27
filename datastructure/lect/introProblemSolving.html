@@ -5,57 +5,181 @@
     <title>intro-Problem-Solving</title>
 </head>
 <body>
-<center><b>Lecture1 - Dated 14th Oct</b></center>
-<p>
-    <b>Factor - </b> i is a factor of N if i devides N complitely -
-    <span style="color: blue;">see assignment section </span>
-</p>
-<p>
-    <b>Prime Number - </b> Number which have only two factors 1,N (n-number itself)
-    <span style="color: blue;">see assignment section </span>
-</p>
-<br>
 
-<p>
-    <b>Basic Maths properties</b> <br>
-    <p>
-        [a,b] - it means a and b both are inclusive (means at this time we will include value of a and b) <br>
-        for example - [2,10] - {2,3,4,5,6,7,8,9,10}   - the count of [2,10] is = 9 - it means a<=b <br>
-        <b>Formula -  <span style="color: red;background: yellow;">b-a+1</span></b>
-    </p>
-    <p>
-        (a,b) - it means a and b both are exclusive (means at this time w will not include value of a and b) <br>
-        for example - (2,10) - {3,4,5,6,7,8,9}  - the count of (2,10) is = 7 <br>
-        <b>Formula - <span style="color: red;background: yellow;">b-a-1</span></b>
-    </p>
-    <p>
-        <b>Find sum of Nth Number - </b> 1,2,3,,4.......100 (find the sum of all the numbers)
-        s1 = 1,2,3,4,5.......100 <br>
-        s2 = 100,99,98,97,96.......1<br>
-        According to the <b>"Gause Principle"</b> - (s1[0]+s2[0]), (s1[1]+s2[2]), (s1[3]+s2[3])
-        all will be return same Number <br>
-        Example - (100+1=101), (99+2=101), (98+3=101), (97+4=101), (96+5=101), (95+6=101)<br>
-        we can write it - 2s = 101*100  where (101-sum of each set, 100-total number of set)<br>
-        2s = 101*100 <br>
-        s = (101*100)/2;<br>
-        Get sum for Nth Number - 1,2,3,4,5.............Nth <br>
-        s1 = 1,2,3,4,5...............n<br>
-        s2 = n, n-1, n-2, n-3, n-4........1<br
-        2s = (n+1)*n <br>
-        s = ((n+1)*n)/2 <br>
-        <b>Formula - <span style="color: red;background: yellow;">sumN = (N*(N+1))/2 </span> </b><br>
-        <span>
-            <b>Example - </b> Find sum of 1 to 25 (n=25) <br>
-            sumN = (25*(25+1))/2 <br>
-                 = (25*26)/2 <br>
-                 = 650/2 <br>
-                 = 325 <br>
-        </span>
+<div style="
+    border: black;
+    border-style: dotted;
+    border-width: thin;
+">  
+   <div style="
+    margin-left: 25px;
+">
+            <center><b>Lecture4 - Dated 21th Oct 2024</b></center>
+            <span style="background-color: yellow;">
+                DS1- Given N size of array & Q is the query, for each query calculate sum of all elements in range [L,R] <br>
+                Note - L & R both are indexes such that L<=R <br>
+                Example - [-3.6,6,2,4,5,2,8,-9,3,4] <br>
+                L=4, R=8  --------> Output - 19
+            </span>
 
 
-    </p>
+           
 
-</p>
+
+</div>
+</div>
+  
+
+<div style="
+    border: black;
+    border-style: dotted;
+    border-width: thin;
+">  
+   <div style="
+    margin-left: 25px;
+">
+            <center><b>Lecture1 - Dated 14th Oct</b></center>
+            <p>
+                <b>Factor - </b> i is a factor of N if i devides N complitely -
+                <span style="color: blue;">see assignment section </span>
+            </p>
+            <p>
+                <b>Prime Number - </b> Number which have only two factors 1,N (n-number itself)
+                <span style="color: blue;">see assignment section </span>
+            </p>
+            <br>
+
+            <p>
+                <b>Basic Maths properties</b> <br>
+                <p>
+                    [a,b] - it means a and b both are inclusive (means at this time we will include value of a and b) <br>
+                    for example - [2,10] - {2,3,4,5,6,7,8,9,10}   - the count of [2,10] is = 9 - it means a<=b <br>
+                    <b>Formula -  <span style="color: red;background: yellow;">b-a+1</span></b>
+                </p>
+                <p>
+                    (a,b) - it means a and b both are exclusive (means at this time w will not include value of a and b) <br>
+                    for example - (2,10) - {3,4,5,6,7,8,9}  - the count of (2,10) is = 7 <br>
+                    <b>Formula - <span style="color: red;background: yellow;">b-a-1</span></b>
+                </p>
+                <p>
+                    <b>Find sum of Nth Number - </b> 1,2,3,,4.......100 (find the sum of all the numbers)
+                    s1 = 1,2,3,4,5.......100 <br>
+                    s2 = 100,99,98,97,96.......1<br>
+                    According to the <b>"Gause Principle"</b> - (s1[0]+s2[0]), (s1[1]+s2[2]), (s1[3]+s2[3])
+                    all will be return same Number <br>
+                    Example - (100+1=101), (99+2=101), (98+3=101), (97+4=101), (96+5=101), (95+6=101)<br>
+                    we can write it - 2s = 101*100  where (101-sum of each set, 100-total number of set)<br>
+                    2s = 101*100 <br>
+                    s = (101*100)/2;<br>
+                    Get sum for Nth Number - 1,2,3,4,5.............Nth <br>
+                    s1 = 1,2,3,4,5...............n<br>
+                    s2 = n, n-1, n-2, n-3, n-4........1<br
+                    2s = (n+1)*n <br>
+                    s = ((n+1)*n)/2 <br>
+                    <b>Formula - <span style="color: red;background: yellow;">sumN = (N*(N+1))/2 </span> </b><br>
+                    <span>
+                        <b>Example - </b> Find sum of 1 to 25 (n=25) <br>
+                        sumN = (25*(25+1))/2 <br>
+                             = (25*26)/2 <br>
+                             = 650/2 <br>
+                             = 325 <br>
+                    </span>
+
+
+                </p>
+
+            </p>
+  </div>
+</div>
+
+<!-- ========================================================================================== -->
+<div style="
+    border: black;
+    border-style: dotted;
+    border-width: thin;
+">  
+    <div style="
+        margin-left: 25px;
+    ">  
+                <center><b>Lecture2 - Dated 16th Oct</b></center>
+                <p>
+                    <b>log - </b><br> in computer science log always treat base 2 
+                    <br> log is universe of exponential funcation (let's see this at below line)
+                    <br> log<sub>a</sub> (b) = c ----> a<sup>c</sup> = b
+                    <br> Example - <br>
+                    log<sub>2</sub>(64) = 6 ------> 2<sup>6</sup> = 64 <br>
+                    log<sub>3</sub>(81) = 4 ------> 3<sup>4</sup> = 81 <br>
+                    log<sub>2</sub>(2<sup>6</sup>) = 6 ------> 2<sup>6</sup> = 2<sup>6</sup> <br><br>
+                    <b>Question1. - </b>Given a +ve no N, how many times we need to device it by 2 to reach 1 ? <br>
+                    <b>Solution -</b> Example - we have N=5 (5/2 = 2, 2/2 = 1) or we can wrtie (5/2<sup>2</sup> = 1)  it means we can come with the below equation - <br>
+                    (N/2<sup>0</sup> --> N/2<sup>1</sup> --> N/2<sup>2</sup> --> N/2<sup>3</sup> --> N/2<sup>4</sup> ---------------> N/2<sup>k</sup>) (where N/2<sup>k</sup> = 1) <br>
+                    N/2<sup>k</sup> = 1 <br>
+                    N = 2<sup>k</sup>  <br>
+                    log<sub>2</sub> (N) = k <br><br>
+                    Example1 - How many times N=27 Need to be devided to reach 1. <br>
+                    lets use formula - log<sub>2</sub> (N) = k <br>
+                    log<sub>2</sub> (27) = k  (where 27 we can write 2<sup>4.7666666666666</sup> or 2<sup>4</sup>) <br>
+                    log<sub>2</sub> (2<sup>4</sup>) = k <br>
+                    log<sub>2</sub> (2<sup>4</sup>) = 4 <b>(ANS)</b> <br><br>
+
+                    Example2 - How many times N=65 Need to be devided to reach 1. <br>
+                    lets use formula - log<sub>2</sub> (N) = k <br>
+                    log<sub>2</sub> (65) = k  (where 27 we can write 2<sup>6.12222222</sup> or 2<sup>6</sup>) <br>
+                    log<sub>2</sub> (2<sup>6</sup>) = k <br>
+                    log<sub>2</sub> (2<sup>6</sup>) = 6 <b>(ANS)</b>
+
+                </p>
+
+                <p>
+                    <b>Time Complexity- </b><br>
+                    <span>
+                        <b>Quiz1 - </b> <br>
+                        //N>0<br>
+                        i=N<br>
+                        while(i>1) {<br>
+                        i=i/2<br>
+                        }<br>
+                        <b>Ans- </b>O(log(N))  (Explaination - i/2<sup>0</sup> --> i/2<sup>1</sup> --> i/2<sup>2</sup> --> i/2<sup>3</sup> --> i/2<sup>4</sup> ---------------> 1) <br>
+
+                        <b>Quiz2 - </b> <br>
+                        for(int i=1;i< n;i=i*2) {<br>
+
+                        }<br>
+                         <b>Ans- </b>O(log(N))  Explaination - i is increment just dubble it means it will take 2 <sup>k</sup> steps to reach till N which means log<sub>2</sub> (k) 
+
+
+
+                </span>
+                </p>
+
+    </div>
+
+</div>
+
+<div style="
+    border: black;
+    border-style: dotted;
+    border-width: thin;
+">  
+   <div style="
+    margin-left: 25px;
+">
+            <center><b>Lecture3 - Dated 18th Oct 2024</b></center>
+
+            <b>Importance of constants - </b> <br> (1<=n<=10<sup>5</sup>)  - it means solution should come till (Nlog(N))  <br>
+                1<=N<=10<sup>6</sup> -  it means solution should come till O(N) only <br><br>
+
+
+            <b>Space Complexity -</b> it will be mejor space for the solution <br>
+            (int x, long y, boolean flag ) ---------> O(1) <br>
+            (int[] arr = new int[N])  --------> O(N) <br>
+            (int[][] arr = new int[N][N])  ------ O(N<sup>2</sup>) <br><br>
+
+            <b>Array - </b> Collection of Data of Same Data Type (int, float, long, char, etc.......)<br><br>
+
+
+</div>
+</div>
 
 </body>
 </html>
