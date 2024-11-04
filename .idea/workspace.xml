@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/AtleastOneElementGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/GoodPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/MultipleOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/ReverseRangeInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/SecondLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/SumOfMaxMinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct18/TimeToEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/FindPrefixSumForArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QueryEvenIndexesSumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QueryOddIndexesSumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/QuerySumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/SpecialIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/EquilibriumIndexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/BestTimeBuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/ClosestMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/FindSubArrayInGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/GenerateAllSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/LeadersInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/PickFromBothSides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/SpecialSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/TotalNumberOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/CountSubArrayLengthOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/FindMaximumSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/FindSubArraySumFromGivenIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/MaxSumOfSubArrayLengthOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/MaximumSubarrayEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SubarrayWithGivenSumAndLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SubarrayWithLeastAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SumOfAllSubarrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/lect/introProblemSolving.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/FindPrefixSumForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/FindPrefixSumForArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,27 +68,40 @@
     "Application.ArrayFundaMentals.executor": "Run",
     "Application.ArrayRotation.executor": "Debug",
     "Application.AtleastOneElementGreater.executor": "Run",
+    "Application.BestTimeBuyAndSellStocks.executor": "Run",
     "Application.BuyAndSellStocks121.executor": "Run",
+    "Application.ClosestMinMax.executor": "Run",
     "Application.ContainerWithMostWater.executor": "Run",
     "Application.ContainesDuplicate.executor": "Run",
+    "Application.CountSubArrayLengthOfK.executor": "Run",
     "Application.CountsOfPrimes.executor": "Run",
     "Application.DatastructureApplication.executor": "Run",
     "Application.DecodeWays91.executor": "Debug",
+    "Application.EquilibriumIndexes.executor": "Run",
     "Application.ExcelSheetColumnNumber.executor": "Run",
     "Application.FindElementInSorted2DArray.executor": "Run",
     "Application.FindFactors.executor": "Run",
+    "Application.FindMaximumSumOfSubArray.executor": "Run",
     "Application.FindMinRotatedSortedArray.executor": "Run",
     "Application.FindMinimumInSortedAndRotatedArray.executor": "Run",
     "Application.FindPerfactNumber.executor": "Run",
+    "Application.FindPrefixSumForArray.executor": "Run",
+    "Application.FindSubArrayInGivenRange.executor": "Run",
+    "Application.FindSubArraySumFromGivenIndex.executor": "Run",
     "Application.FirstAndLastPositionOfX.executor": "Run",
+    "Application.GenerateAllSubArray.executor": "Run",
     "Application.GoodPair.executor": "Run",
     "Application.IsPrime.executor": "Run",
+    "Application.LeadersInAnArray.executor": "Run",
     "Application.MajorityElementProblem.executor": "Run",
+    "Application.MaxSumOfSubArrayLengthOfK.executor": "Run",
     "Application.MaximumSubArray.executor": "Run",
+    "Application.MaximumSubarrayEasy.executor": "Run",
     "Application.MultipleOccurence.executor": "Run",
     "Application.PawerOfTwo231.executor": "Run",
     "Application.PeakIndexMountainArray852.executor": "Run",
     "Application.Permutations.executor": "Debug",
+    "Application.PickFromBothSides.executor": "Run",
     "Application.Pyramid.executor": "Run",
     "Application.QueryEvenIndexesSumInArray.executor": "Run",
     "Application.QueryOddIndexesSumInArray.executor": "Run",
@@ -99,12 +116,17 @@
     "Application.Sort01.executor": "Run",
     "Application.Sort012.executor": "Run",
     "Application.SpecialIndex.executor": "Run",
+    "Application.SpecialSequences.executor": "Run",
     "Application.SprialMatrix.executor": "Run",
+    "Application.SubarrayWithGivenSumAndLength.executor": "Run",
+    "Application.SubarrayWithLeastAverage.executor": "Run",
+    "Application.SumOfAllSubarrays.executor": "Run",
     "Application.SumOfMaxMinElement.executor": "Run",
     "Application.TargetSumSubSet.executor": "Debug",
     "Application.ThreeSumProblems.executor": "Run",
     "Application.TimeToEquality.executor": "Run",
     "Application.ToLowerCase.executor": "Run",
+    "Application.TotalNumberOfSubArray.executor": "Run",
     "Application.TwoSumProblem.executor": "Run",
     "Application.com.programe.datastructure.arrays.recursion.Permutations.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
@@ -139,13 +161,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpecialIndex">
-    <configuration name="AtleastOneElementGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct18.AtleastOneElementGreater" />
+  <component name="RunManager" selected="Application.SubarrayWithLeastAverage">
+    <configuration name="CountSubArrayLengthOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct25.CountSubArrayLengthOfK" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueryEvenIndexesSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.QueryEvenIndexesSumInArray" />
+    <configuration name="MaxSumOfSubArrayLengthOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct25.MaxSumOfSubArrayLengthOfK" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueryOddIndexesSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.QueryOddIndexesSumInArray" />
+    <configuration name="SubarrayWithGivenSumAndLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct25.SubarrayWithGivenSumAndLength" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuerySumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.QuerySumInArray" />
+    <configuration name="SubarrayWithLeastAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct25.SubarrayWithLeastAverage" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct22.SpecialIndex" />
+    <configuration name="SumOfAllSubarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct25.SumOfAllSubarrays" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct22.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QueryEvenIndexesSumInArray" />
-      <item itemvalue="Application.QueryOddIndexesSumInArray" />
-      <item itemvalue="Application.QuerySumInArray" />
-      <item itemvalue="Application.SpecialIndex" />
-      <item itemvalue="Application.AtleastOneElementGreater" />
+      <item itemvalue="Application.CountSubArrayLengthOfK" />
+      <item itemvalue="Application.MaxSumOfSubArrayLengthOfK" />
+      <item itemvalue="Application.SubarrayWithGivenSumAndLength" />
+      <item itemvalue="Application.SubarrayWithLeastAverage" />
+      <item itemvalue="Application.SumOfAllSubarrays" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpecialIndex" />
-        <item itemvalue="Application.QueryOddIndexesSumInArray" />
-        <item itemvalue="Application.QueryEvenIndexesSumInArray" />
-        <item itemvalue="Application.QuerySumInArray" />
-        <item itemvalue="Application.AtleastOneElementGreater" />
+        <item itemvalue="Application.SubarrayWithLeastAverage" />
+        <item itemvalue="Application.SubarrayWithGivenSumAndLength" />
+        <item itemvalue="Application.MaxSumOfSubArrayLengthOfK" />
+        <item itemvalue="Application.CountSubArrayLengthOfK" />
+        <item itemvalue="Application.SumOfAllSubarrays" />
       </list>
     </recent_temporary>
   </component>
@@ -362,6 +384,76 @@
           <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/SpecialIndex.java</url>
           <line>70</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct22/EquilibriumIndexes.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/GenerateAllSubArray.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/GenerateAllSubArray.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/GenerateAllSubArray.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/GenerateAllSubArray.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/ClosestMinMax.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/ClosestMinMax.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/ClosestMinMax.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct23/PickFromBothSides.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SumOfAllSubarrays.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SumOfAllSubarrays.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SumOfAllSubarrays.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SubarrayWithGivenSumAndLength.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Oct25/SubarrayWithLeastAverage.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
