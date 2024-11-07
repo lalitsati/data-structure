@@ -1,0 +1,9 @@
+//Sorting - Sorting is an arrangement of data in a particular order on the bases of some parameters
+//parameters - means operation type like numeric order (Asc,desc), mathmatical constant like factors, root..etc
+Example -
+1. [2,3,9,12,17,19] - array is sorted based on magnitude(value)
+2. [1,13,9,6,12]  - array is sorted based on factors (1 factor is 1(#1), 13 factors are 1,3(#2),
+                    9 factors are 1,3,3(#3), 6 factors are 1,2,3,6(#4), 12 factors are 1,2,3,4,6,12(#6))
+                    so this array is sorted like no of factors of number (1,2,3,4,6)
+
+
