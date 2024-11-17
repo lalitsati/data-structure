@@ -1,4 +1,4 @@
-package com.programe.datastructure.leetcode;
+package com.programe.datastructure.leetcode.section1;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -32,13 +32,19 @@ public class TwoSum1 {
          */
         int[] arr = {3,2,3};
         int target=6;
-        //printArr(solve(arr, target));
-        printArr(solve1(arr, target));
+
+        printArr(solve(arr, target));
 
     }
 
-
-    private static int[] solve1(int[] arr, int target) {
+    /**
+     * TC-O(N)
+     * SC(O(N))
+     * @param arr
+     * @param target
+     * @return
+     */
+    private static int[] solve(int[] arr, int target) {
         Map<Integer, Integer> tmp = new HashMap<>();
         for(int i=0;i<arr.length;i++) {
             int val = target-arr[i];
@@ -51,25 +57,6 @@ public class TwoSum1 {
         return null;
     }
 
-    /**
-     * Need to check (More optimized )
-     * @param arr
-     * @param target
-     * @return
-     */
-    private static int[] solve(int[] arr, int target) {
-        int i=0,e=1;
-        int sum=arr[0];
-        int n = arr.length;
-        while(e<n) {
-            sum = arr[i]+arr[e];
-            if(sum==target) {
-                return new int[]{i,e};
-            }
-            e++;i++;
-        }
-        return null;
-    }
 
     public static void printArr(int[] arr){
         for(int i=0;i< arr.length;i++) {
