@@ -5,44 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33204b26-96d8-4d96-ae45-66e38fa7054d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Dynamicprogramming/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/LengthOfLongestConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/RotateMatrix90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/TransPoseMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/AmazingSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/CheckIsalnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/CountOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/StringOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov12/SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov7/AddBinaryStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov7/BitManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/AntiDiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/ColumnSumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/CountIncreasingTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/MainDiagonalSumOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/MatrixProblem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/MinorDiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/PrintAllTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/PrintAntiDigonalsOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/RowSumOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/RowToColumnZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov9/_2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/AddTwoNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/LongestPalindromicSubStrng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/LongestSubstringWithoutRepeatingCharacters3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/StringToIntegerCustome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/AddTwoMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/CheckAnagramsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/ColorfulNumbe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/RepeatNumberInGivenCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/ReverseTheString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/SimpleReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov16Contest/contest1/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov16Contest/contest1/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov16Contest/contest1/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/BitwiseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/CheckBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/CountSetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/FindEvenOddBinaryDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/FindNthMagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/SetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/ToggleIThBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/UnsetIThBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/_3SetBitInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/seriesQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/MinXORValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/SingleNumberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/StrangeEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/SumOfXorOfAllPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/TwoIntegersI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/leetcode/section1/TwoSum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/RotateMatrix90.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/RotateMatrix90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/TransPoseMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/TransPoseMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +76,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddBinaryStrings.executor": "Run",
+    "Application.AddTwoMatrices.executor": "Run",
     "Application.AddTwoNumbers2.executor": "Run",
     "Application.AmazingSubarrays.executor": "Run",
     "Application.AntiDiagonalSum.executor": "Run",
@@ -94,14 +86,18 @@
     "Application.AtleastOneElementGreater.executor": "Run",
     "Application.BestTimeBuyAndSellStocks.executor": "Run",
     "Application.BuyAndSellStocks121.executor": "Run",
+    "Application.CheckAnagramsString.executor": "Run",
+    "Application.CheckBit.executor": "Run",
     "Application.CheckIsalnum.executor": "Run",
     "Application.ClosestMinMax.executor": "Run",
+    "Application.ColorfulNumbe.executor": "Run",
     "Application.ColumnSumMatrix.executor": "Run",
     "Application.ContainerWithMostWater.executor": "Run",
     "Application.ContainerWithMostWater11.executor": "Run",
     "Application.ContainesDuplicate.executor": "Run",
     "Application.CountIncreasingTriplets.executor": "Run",
     "Application.CountOccurrences.executor": "Run",
+    "Application.CountSetBit.executor": "Run",
     "Application.CountSubArrayLengthOfK.executor": "Run",
     "Application.CountingSubarraysAsPerCriterea.executor": "Run",
     "Application.CountsOfPrimes.executor": "Run",
@@ -110,10 +106,12 @@
     "Application.EquilibriumIndexes.executor": "Run",
     "Application.ExcelSheetColumnNumber.executor": "Run",
     "Application.FindElementInSorted2DArray.executor": "Run",
+    "Application.FindEvenOddBinaryDigit.executor": "Run",
     "Application.FindFactors.executor": "Run",
     "Application.FindMaximumSumOfSubArray.executor": "Run",
     "Application.FindMinRotatedSortedArray.executor": "Run",
     "Application.FindMinimumInSortedAndRotatedArray.executor": "Run",
+    "Application.FindNthMagicNumber.executor": "Run",
     "Application.FindPerfactNumber.executor": "Run",
     "Application.FindPrefixSumForArray.executor": "Run",
     "Application.FindSubArrayInGivenRange.executor": "Run",
@@ -139,10 +137,12 @@
     "Application.MaximumSubArray.executor": "Run",
     "Application.MaximumSubarrayEasy.executor": "Run",
     "Application.MedianOfTwoSortedArrays.executor": "Run",
+    "Application.MinXORValue.executor": "Run",
     "Application.MinimizeTheCostOfEmptyArray.executor": "Run",
     "Application.MinorDiagonalSum.executor": "Debug",
     "Application.MultipleOccurence.executor": "Run",
     "Application.NobleInteger.executor": "Run",
+    "Application.NumberOf1Bits.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PawerOfTwo231.executor": "Run",
     "Application.PeakIndexMountainArray852.executor": "Run",
@@ -154,17 +154,27 @@
     "Application.QueryEvenIndexesSumInArray.executor": "Run",
     "Application.QueryOddIndexesSumInArray.executor": "Run",
     "Application.QuerySumInArray.executor": "Debug",
+    "Application.Question1.executor": "Run",
+    "Application.Question2.executor": "Run",
+    "Application.Question3.executor": "Run",
+    "Application.RepeatNumberInGivenCondition.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseRangeInArray.executor": "Run",
     "Application.ReverseStringArray.executor": "Run",
+    "Application.ReverseTheString.executor": "Run",
     "Application.RomanToInteger.executor": "Run",
     "Application.RotateArrayFromOnePointer.executor": "Run",
+    "Application.RotateMatrix90.executor": "Run",
     "Application.RotateMatrix90Digree.executor": "Run",
     "Application.RowSumOfMatrix.executor": "Run",
     "Application.RowToColumnZero.executor": "Run",
     "Application.SearchSortedAndRotatedArray.executor": "Run",
     "Application.SecondLargestNumber.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.SetBit.executor": "Run",
+    "Application.SimpleReverseString.executor": "Run",
+    "Application.SingleNumber.executor": "Run",
+    "Application.SingleNumberIII.executor": "Run",
     "Application.SmallestNumberProblem.executor": "Run",
     "Application.Sort01.executor": "Run",
     "Application.Sort012.executor": "Run",
@@ -179,18 +189,24 @@
     "Application.SubarrayWithLeastAverage.executor": "Run",
     "Application.SumOfAllSubarrays.executor": "Run",
     "Application.SumOfMaxMinElement.executor": "Run",
+    "Application.SumOfXorOfAllPairs.executor": "Debug",
     "Application.TargetSumSubSet.executor": "Debug",
     "Application.ThreeSum.executor": "Run",
     "Application.ThreeSumClosest.executor": "Debug",
     "Application.ThreeSumProblems.executor": "Run",
     "Application.TimeToEquality.executor": "Run",
     "Application.ToLowerCase.executor": "Run",
+    "Application.ToggleIThBit.executor": "Run",
     "Application.TotalNumberOfSubArray.executor": "Run",
     "Application.TransPoseMatrix.executor": "Run",
+    "Application.TwoIntegersI.executor": "Run",
     "Application.TwoSum1.executor": "Run",
     "Application.TwoSumProblem.executor": "Run",
+    "Application.UnsetIThBit.executor": "Run",
     "Application._2DMatrix.executor": "Run",
+    "Application._3SetBitInRange.executor": "Run",
     "Application.com.programe.datastructure.arrays.recursion.Permutations.executor": "Run",
+    "Application.seriesQuestion.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "Maven.data-structure [clean,compile,install].executor": "Run",
     "Maven.datastructure [clean,compile,install].executor": "Run",
@@ -223,13 +239,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TransPoseMatrix">
-    <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct18.ArrayRotation" />
+  <component name="RunManager" selected="Application.MinXORValue">
+    <configuration name="MinXORValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.nov27.MinXORValue" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct18.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.nov27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLongestConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Nov14.LengthOfLongestConsecutiveOnes" />
+    <configuration name="SingleNumberIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.nov27.SingleNumberIII" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Nov14.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.nov27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Oct18.SecondLargestNumber" />
+    <configuration name="SumOfXorOfAllPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.nov27.SumOfXorOfAllPairs" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Oct18.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.nov27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.leetcode.section1.ThreeSumClosest" />
+    <configuration name="TwoIntegersI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.nov27.TwoIntegersI" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.leetcode.section1.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.nov27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransPoseMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.Nov14.TransPoseMatrix" />
+    <configuration name="seriesQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programe.datastructure.assignments.nov25.seriesQuestion" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programe.datastructure.assignments.Nov14.*" />
+          <option name="PATTERN" value="com.programe.datastructure.assignments.nov25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,19 +317,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayRotation" />
-      <item itemvalue="Application.LengthOfLongestConsecutiveOnes" />
-      <item itemvalue="Application.SecondLargestNumber" />
-      <item itemvalue="Application.ThreeSumClosest" />
-      <item itemvalue="Application.TransPoseMatrix" />
+      <item itemvalue="Application.MinXORValue" />
+      <item itemvalue="Application.SingleNumberIII" />
+      <item itemvalue="Application.SumOfXorOfAllPairs" />
+      <item itemvalue="Application.TwoIntegersI" />
+      <item itemvalue="Application.seriesQuestion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransPoseMatrix" />
-        <item itemvalue="Application.LengthOfLongestConsecutiveOnes" />
-        <item itemvalue="Application.ArrayRotation" />
-        <item itemvalue="Application.SecondLargestNumber" />
-        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.MinXORValue" />
+        <item itemvalue="Application.SumOfXorOfAllPairs" />
+        <item itemvalue="Application.TwoIntegersI" />
+        <item itemvalue="Application.SingleNumberIII" />
+        <item itemvalue="Application.seriesQuestion" />
       </list>
     </recent_temporary>
   </component>
@@ -694,14 +710,89 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/TransPoseMatrix.java</url>
-          <line>56</line>
+          <line>106</line>
           <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/ReverseTheString.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/TransPoseMatrix.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/TransPoseMatrix.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/RepeatNumberInGivenCondition.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/CheckAnagramsString.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/ColorfulNumbe.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/ColorfulNumbe.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/AddTwoMatrices.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/Nov14/AddTwoMatrices.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov16Contest/contest1/Question3.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov25/NumberOf1Bits.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/SingleNumberIII.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/SingleNumberIII.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/SumOfXorOfAllPairs.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/assignments/nov27/MinXORValue.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="152" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="str.substring(i)" />
+        <watch expression="list.get(j)" />
       </configuration>
       <inline-watch fileUrl="file://$PROJECT_DIR$/datastructure/src/main/java/com/programe/datastructure/tree/recursion/Permutations.java" line="61">
         <watch expression="ans" />
