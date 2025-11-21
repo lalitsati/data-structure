@@ -1,4 +1,4 @@
-package com.programe.datastructure.tree.recursion;
+package com.programe.datastructure.leetcode;
 
 import java.util.*;
 

@@ -3,7 +3,7 @@ package com.programe.datastructure.assignments;
 public class FindFactors {
 
     public static void main(String[] args) {
-        int A = 23232323;
+        int A = 300;
         System.out.printf("\nFactors count of number {%d} is {%d}",A,solve(A));
         System.out.printf("\nFactors count of number {%d} is {%d}",A,solve1(A));
     }
